@@ -17,7 +17,7 @@
       untuk api transfer ada 2 , yaitu tranfer langsung dan transfer yang di proses lewat background
     - testing Kafka consume transfer Process
       python3 kafka_consumer.py
-    - running api masuk kedalam folder cashflow lalu jalankan perintah : python3 app.py
-      akses port Api ada di file app.py
+    - running api masuk kedalam folder cashflow lalu jalankan perintah : "python3 app.py"
+      =>akses port Api ada di file app.py
     
        
