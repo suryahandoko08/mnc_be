@@ -1,6 +1,6 @@
 1. Soal File tahap 1 ada di folder test_1
 2. Untuk Soal File tahap 2 
-    - Python3
+    - Python3 =>
       masuk kedalam folder cashflow jalankan perintah : "pip3 install -r requirements.txt"
     - Orm Sql Alchemy
     - Database Postgre
