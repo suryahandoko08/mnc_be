@@ -16,5 +16,6 @@
       untuk api transfer ada 2 , yaitu tranfer langsung dan transfer yang di proses lewat background
     - testing Kafka consume transfer Process
       python3 kafka_consumer.py
+      - running api: python3 app. py
     
        
