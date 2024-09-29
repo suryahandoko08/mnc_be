@@ -18,5 +18,6 @@
     - testing Kafka consume transfer Process
       python3 kafka_consumer.py
     - running api masuk kedalam folder cashflow lalu jalankan perintah : python3 app.py
+      akses port Api ada di file app.py
     
        
