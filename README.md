@@ -15,8 +15,8 @@
     - testing Api melalui Postman : https://api.postman.com/collections/4131954-1114c802-103e-4a81-848c-091cd60764a9?access_key=PMAT-01J8YD8H7CHPNNR39GNWQJN1Q8
       import file postman lalu coba beberapa Api nya
       untuk api transfer ada 2 , yaitu tranfer langsung dan transfer yang di proses lewat background
-    - testing Kafka consume transfer Process
-      python3 kafka_consumer.py
+    - testing Kafka consume transfer Process=?
+      "python3 kafka_consumer.py"
     - running api masuk kedalam folder cashflow lalu jalankan perintah : "python3 app.py"
       =>akses port Api ada di file app.py
     
